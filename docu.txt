@@ -1,0 +1,4 @@
+g = agl
+h = left
+self.overswing
+hit is after ba (bar active)
